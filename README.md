@@ -1,7 +1,7 @@
 # Interactive Sales Analysis with Power BI 📊
 
 ![Screenshot 2024-12-28 203323](https://github.com/user-attachments/assets/1ea96ea5-4f20-4804-961e-e1386cc46278)
-
+---
 ## Introduction 🌟
 Welcome to my Power BI project! 🎉
 
