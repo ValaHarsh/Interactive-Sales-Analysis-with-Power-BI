@@ -58,7 +58,6 @@ This project is built around these objectives:
 
 | File Name                          | Description                                                             |
 | ----------------------------------- | ----------------------------------------------------------------------- |
-| `Amazon_Sales_Dashboard.pbix`       | Power BI project file containing the dashboard and DAX calculations.   |
 | `Sales_Data.xlsx`                   | Preprocessed dataset used for creating the dashboard (optional/anonymized). |
 | `Dashboard_Screenshots/`            | Folder containing high-resolution images of the dashboard.             |
 | `README.md`                         | Documentation for this project.                                         |
